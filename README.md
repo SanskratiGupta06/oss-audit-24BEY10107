@@ -38,35 +38,4 @@ chmod +x script5_manifesto_generator.sh
 - python3 installed
 ```
 
----
 
-
-
-### Part A3 — Ethics
-- **Should all software be open source?** For: knowledge should be free. Against: companies need revenue to build quality software.
-- **Companies using free labor?** Red Hat, Google — ethical debate. Red Hat contributes back; others take more than give.
-- **Standing on shoulders of giants:** Python itself uses C libraries, which use OS-level code — all open source.
-
----
-
-### Part B — Linux Footprint
-```
-Installation:  sudo apt install python3
-Binary:        /usr/bin/python3
-Libraries:     /usr/lib/python3/
-Config:        /etc/python3/
-Logs:          /var/log/ (via apps using Python)
-User:          runs as current logged-in user
-Service:       not a daemon by default
-Updates:       sudo apt update && sudo apt upgrade
-
-Part C — FOSS Ecosystem
-
-Depends on: GCC (compiler), zlib, OpenSSL, libffi
-Built on top of Python: Django, Flask, NumPy, TensorFlow, pip
-Community: python.org, PyCon conferences, python-dev mailing list, GitHub
-Governance: PSF (Python Software Foundation) — nonprofit
-
-
-Part D — Comparison Table
-DimensionPython (Open Source)MATLAB (Proprietary)CostFree$500-$2000/yearSecurityAnyone can audit codeClosed sourceSupportCommunity + Stack OverflowOfficial paid supportFreedom to modifyYes, fullyNoCommunity controlPSF + communityMathWorks corpVerdict yes Recommended  Not Expensive
