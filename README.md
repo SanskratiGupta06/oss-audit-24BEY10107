@@ -40,38 +40,7 @@ chmod +x script5_manifesto_generator.sh
 
 ---
 
-## 📋 Project Report — Sections aur content
 
-Report **12-16 pages** ki honi chahiye. Niche har section ka content diya hai:
-
----
-
-### Part A1 — Origin Story of Python
-Python ko **Guido van Rossum** ne 1989 mein Christmas holidays mein shuru kiya tha. Woh CWI (Netherlands) mein kaam karte the. Unhe ABC language pasand thi lekin woh bahut restricted thi — users khud extensions nahi likh sakte the. Guido chahte the ek aisi language jo:
-- Easy to read ho (English jaisi)
-- Extensible ho
-- Free aur open ho sab ke liye
-
-1991 mein Python 0.9.0 release hua — publicly, freely. Aaj duniya ki sabse popular language hai.
-
----
-
-### Part A2 — License Analysis
-Python **PSF License (Python Software Foundation License)** use karta hai — yeh MIT jaisi permissive license hai.
-
-**4 Freedoms of Free Software:**
-1. Software use karne ki freedom
-2. Source code study karne ki freedom
-3. Copies distribute karne ki freedom
-4. Modified versions share karne ki freedom
-
-Python ki PSF license **saari 4 freedoms** deti hai. Koi bhi company Python ko modify karke sell kar sakti hai bina changes share kiye (unlike GPL).
-
-**GPL vs MIT:**
-- GPL: Changes share karne zaroori hain (copyleft)
-- MIT/PSF: Changes share karne zaroori nahi (permissive)
-
----
 
 ### Part A3 — Ethics
 - **Should all software be open source?** For: knowledge should be free. Against: companies need revenue to build quality software.
