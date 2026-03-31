@@ -1,6 +1,6 @@
 # OSS Audit — Python
-**Student Name:** [Your Name]  
-**Roll Number:** [Your Roll Number]  
+**Student Name:** Sanskrati Gupta  
+**Roll Number:** 24BEY10107  
 **Course:** Open Source Software  
 **Software Audited:** Python  
 
