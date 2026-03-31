@@ -100,4 +100,4 @@ Governance: PSF (Python Software Foundation) — nonprofit
 
 
 Part D — Comparison Table
-DimensionPython (Open Source)MATLAB (Proprietary)CostFree$500-$2000/yearSecurityAnyone can audit codeClosed sourceSupportCommunity + Stack OverflowOfficial paid supportFreedom to modifyYes, fullyNoCommunity controlPSF + communityMathWorks corpVerdict✅ Recommended❌ Expensive
+DimensionPython (Open Source)MATLAB (Proprietary)CostFree$500-$2000/yearSecurityAnyone can audit codeClosed sourceSupportCommunity + Stack OverflowOfficial paid supportFreedom to modifyYes, fullyNoCommunity controlPSF + communityMathWorks corpVerdict yes Recommended  Not Expensive
